@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IhzD7yrUjPixSfsHRb/LnBYBaTmEBrg4bXIz1452usvVd3YO0YAlMx+DeInDzEg6qKWaGSDinAkm87umgW1dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\NHSValidator\\NHSValidator\\NHSValidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
